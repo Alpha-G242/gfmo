@@ -1,0 +1,28 @@
+.text
+ {
+
+text-align: center;
+font-size: 50px;
+}
+
+img
+{
+max-width: 100%;
+display:block;
+margin: 0 auto;
+}
+
+.submit
+{
+text-align: center;
+margin: 0 auto;
+}
+@media only screen and (max-width: 400px){
+
+    .text
+    {
+   
+   text-align: center;
+   font-size: 30px;
+   }   
+}
